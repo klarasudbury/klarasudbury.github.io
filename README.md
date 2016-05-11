@@ -1,2 +1,2 @@
-# klarasudbruy.github.io
+# klarasudbury.github.io
 Klara Sudbury's website
