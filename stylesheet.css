@@ -18,16 +18,13 @@ header {
 	display:inline;
 }
 
-table, tr {
-   border: none;
+table {
    vertical-align: top;
 }
 
 nav {
     list-style-type: none;
     overflow: hidden;
-    background-color: ;
-	border: none;
 }
 
 li {
