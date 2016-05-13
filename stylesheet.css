@@ -4,9 +4,6 @@ body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-top: 20px;
 	margin-left: 50px;
-  	column-count: 2;
- 	column-gap: 20px;
-  	height: 350px;
 	background-color:#FFC;
 }
 
