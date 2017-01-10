@@ -1,39 +1,39 @@
-@charset "utf-8";
-/* CSS Document */
+h1 {
+  margin: 0px;
+  font-size:50px;
+}
+
+a {
+  color: lightpink;
+  background-color: white;
+  padding: 5px;
+}
+
 body {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	margin-top: 20px;
-	margin-left: 50px;
-	background-color:#FFC;
+  font-size:20px;
+  background-color: lightpink;
+  color: white;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin-left: 10%;
+  margin-right: 20%;
+  padding-top:20px;
+  padding-bottom: 100px;
 }
 
-socialmedia {
-	
+hr {
+  border: 1px solid white;
+  width: 110%;
+  margin-left:-5%;
 }
 
-header {
-	display:inline;
+#img1 {
+  border: 2px solid white;
+  margin-right: 20px;
+  float: left;
 }
 
-tr{
-   vertical-align: top;
-}
-
-nav {
-    list-style-type: none;
-    overflow: hidden;
-}
-
-li {
-    float: left;
-}
-
-ul {
-    list-style-type: none;
-    width: 200px;
-}
-
-li a {
-    display: block;
-    padding: 0px 8px 0px 0px;
+#img2 {
+  border: 2px solid white;
+  margin-left: 20px;
+  float: right;
 }
