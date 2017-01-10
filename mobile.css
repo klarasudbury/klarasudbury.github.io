@@ -1,6 +1,6 @@
 h1 {
   margin: 0px;
-  font-size:50px;
+  font-size:40px;
 }
 
 a {
@@ -10,28 +10,18 @@ a {
 }
 
 body {
-  font-size:20px;
+  font-size:15px;
   background-color: lightpink;
   color: white;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
-  margin-left: 10%;
-  margin-right: 20%;
-  padding-top:20px;
-  padding-bottom: 100px;
 }
 
 hr {
   border: 1px solid white;
-  width: 110%;
-  margin-left:-5%;
+  width: 120%;
 }
 
 #img1 {
-  border: 2px solid white;
-  width: 100%;
-}
-
-#img2 {
   border: 2px solid white;
   width: 100%;
 }
