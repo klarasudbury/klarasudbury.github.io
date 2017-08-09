@@ -52,7 +52,7 @@ a {
 
 #twitter {
 	float: left;
-	width: 500px;
+	width: 400px;
 	padding-top:20px;
 	padding-bottom:20px;
 	padding-left:20px;
@@ -60,16 +60,12 @@ a {
 
 #container {
 	float: left;
-	width: 500px;
+	width: 600px;
 }
 
 #active a {
 	color:white;
 	background: none;
-}
-
-p {
-	text-align: justify;
 }
 
 #navigation {
